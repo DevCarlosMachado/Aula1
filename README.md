@@ -23,3 +23,11 @@ Arquivo que permite escrever e estilizar texto.
 Criamos nossas contas no GitHub e com isso podemos posteriormente aprender sobre algumas ferramentas do GitHub.
 
 > **Criando repositório para apresentar-se no perfil.**
+
+Aprendemos como criar o repositório README.md, que é o repositório que permite sua apresentação no perfil.
+
+> **Como criar um README.md bonito e colocando Skills
+
+Conhecemos o site (https://rahuldkjain.github.io/gh-profile-readme-generator/) que nos ajuda a criar um README visualmente bonito e com Skills de linguagens que estamos aprendendo ou sabemos.
+
+
