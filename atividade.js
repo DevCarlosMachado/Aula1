@@ -42,12 +42,12 @@ console.log(`A área do triângulo é  ${areaTriangulo}`);
 
 //atividade 5
 console.log("\nAtividade 5:");
-var nota1 = 8;
+var nota1 = parseInt(prompt("Insira a nota 1: "));
 var nota2 = 5;
 var nota3 = 6;
 var media = ((nota1 + nota2 + nota3)/3).toFixed(2);
 console.log(`O resultado da média é ${media}`);
-var resultado = media > 7 ? 'aprovado' : 'reprovado';
+var resultado = media >= 7 ? 'aprovado' : 'reprovado';
 console.log(`Você foi ${resultado}`);
 
 //atividade 6
